@@ -1,0 +1,17 @@
+.auth {
+  width: 240px;
+  height: 80px;
+  background-image: url(arrow.svg);
+  background-repeat: no-repeat;
+  color: #000;
+  margin: auto;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3rem;
+  padding-top: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: #80A1BB;
+}

@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background: #ccc;
+  font-family: sans-serif;
+}
+
+.layout {
+  max-width: 400px;
+  margin: auto;
+  height: 100%;
+  background: #fff;
+}
